@@ -1,14 +1,14 @@
 #!/bin/bash
 
 #-----------------------------------------------------------------------------------------------------------
-#	DATA:				07 de Março de 2017
+#	DATA:				02 de Mayo de 2025
 #	SCRIPT:				ShellBot.sh
 #	VERSÃO:				6.3.0
 #	DESENVOLVIDO POR:	Juliano Santos [SHAMAN]
 #	PÁGINA:				http://www.shellscriptx.blogspot.com.br
 #	FANPAGE:			https://www.facebook.com/shellscriptx
 #	GITHUB:				https://github.com/shellscriptx
-# 	CONTATO:			shellscriptx@gmail.com
+# 	CONTATO:			gabrielitooss@gmail.com
 #
 #	DESCRIÇÃO:			ShellBot é uma API não-oficial desenvolvida para facilitar a criação
 #						de bots na plataforma TELEGRAM. Constituída por uma coleção de métodos

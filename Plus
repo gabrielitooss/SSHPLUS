@@ -96,7 +96,7 @@ echo ""
 echo -e "\033[1;32m• \033[1;32m¡CONSEJO! \033[1;33mUTILICE EL TEMA OSCURO EN SU TERMINAL PARA\033[0m" # Translated "DICA!" and "ULTILIZE..."
 echo -e "\033[1;33m  UNA MEJOR EXPERIENCIA Y VISUALIZACIÓN DEL MISMO!\033[0m" # Translated "UMA MELHOR..." and fixed typo
 echo ""
-echo -e "\033[1;31m≠×≠×≠×≠×≠×≠×≠×[\033[1;33m • \033[1;32mEDIT:@kiritosshxd\033[1;33m •\033[1;31m ]≠×≠×≠×≠×≠×≠×≠×\033[0m" # Author tag, kept as is
+echo -e "\033[1;31m≠×≠×≠×≠×≠×≠×≠×[\033[1;33m • \033[1;32mEDIT:@gabrielitooss\033[1;33m •\033[1;31m ]≠×≠×≠×≠×≠×≠×≠×\033[0m" # Author tag, kept as is
 echo ""
 #-----------------------------------------------------------------------------------------------------------------
 echo -ne "\033[1;36mGENERAR LAS CLAVES FREE [N/S]: \033[1;37m" # Translated "GENERAR AS KEY FREE"
